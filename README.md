@@ -28,4 +28,4 @@ I'm Shivansh Srivastava, a passionate Web developer and ML engineer from Chennai
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shivansh-srivastava-967120235/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/shivansh-srivastava-967120235/))
