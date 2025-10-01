@@ -23,9 +23,9 @@ I'm Shivansh Srivastava, a passionate Web developer and ML engineer from Chennai
 [![Kidney-stone-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh3636&repo=Kidney-stone-detection)](https://github.com/Shivansh3636/Kidney-stone-detection)
 [![Leaf-Disease-Detection-](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh3636&repo=Leaf-Disease-Detection-)](https://github.com/Shivansh3636/Leaf-Disease-Detection-)
 [![Network-Intrusion-Detection-](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh3636&repo=Network-Intrusion-Detection-)](https://github.com/Shivansh3636/Network-Intrusion-Detection-)
-
+[![RPPG-](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh3636&repo=RPPG-)](https://github.com/Shivansh3636/RPPG-)
 
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/shivansh-srivastava-967120235/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/shivansh-srivastava-967120235/)
