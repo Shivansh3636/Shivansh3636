@@ -21,15 +21,10 @@ I'm Shivansh Srivastava, a passionate Web developer and ML engineer from Chennai
 ## 🚀 Featured Repositories
 [![Kidney Stone Detection](https://img.shields.io/badge/Kidney%20Stone%20Detection-blue?style=for-the-badge)](https://github.com/Shivansh3636/Kidney-stone-detection)
 [![Leaf Disease Detection](https://img.shields.io/badge/Leaf%20Disease%20Detection-blue?style=for-the-badge)](https://github.com/Shivansh3636/Leaf-Disease-Detection-)
-
 [![Network Intrusion Detection](https://img.shields.io/badge/Network%20Intrusion%20Detection-blue?style=for-the-badge)](https://github.com/Shivansh3636/Network-Intrusion-Detection-)
-
 [![RPPG](https://img.shields.io/badge/RPPG-blue?style=for-the-badge)](https://github.com/Shivansh3636/RPPG-)
-
 [![Fake News Detection](https://img.shields.io/badge/Fake%20News%20Detection-blue?style=for-the-badge)](https://github.com/Shivansh3636/Fake-News-Dectecion-)
-
 [![Posture Analysis](https://img.shields.io/badge/Posture%20Analysis-blue?style=for-the-badge)](https://github.com/Shivansh3636/Posture-Analysis-)
-
 [![PydanticAI RAG CRUD Agent](https://img.shields.io/badge/PydanticAI%20RAG%20CRUD%20Agent-blue?style=for-the-badge)](https://github.com/Shivansh3636/PydanticAI-Agent-with-RAG-for-basic-CRUD-operation)
 
 ---
