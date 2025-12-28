@@ -19,8 +19,8 @@ I'm Shivansh Srivastava, a passionate Web developer and ML engineer from Chennai
 
 
 ## 🚀 Featured Repositories
-[![Kidney Stone Detection](https://img.shields.io/badge/Kidney%20Stone%20Detection-Click%20Here-blue?style=for-the-badge)](https://github.com/Shivansh3636/Kidney-stone-detection)
-🔵  
+[![Kidney Stone Detection](https://img.shields.io/badge/Kidney%20Stone%20Detection-blue?style=for-the-badge)](https://github.com/Shivansh3636/Kidney-stone-detection)
+
 [![Kidney-stone-detection](https://github-readme-stats.vercel.app/api/pin/?username=Shivansh3636&repo=Kidney-stone-detection&theme=default)](https://github.com/Shivansh3636/Kidney-stone-detection)
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shivansh3636/Kidney-stone-detection)
 
